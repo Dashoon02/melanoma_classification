@@ -1,0 +1,10 @@
+path: C:/new_project/dataset
+train: train
+val: val
+test: test
+
+# number of classes
+nc: 2
+
+# class names
+names: ["Benign", "Malignant"]
